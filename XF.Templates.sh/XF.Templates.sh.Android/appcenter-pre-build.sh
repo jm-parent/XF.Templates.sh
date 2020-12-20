@@ -6,7 +6,7 @@ echo "##[warning][Pre-Build Action] - Lets do some Pre build transformations..."
 SCRIPT_ERROR=0
 
 # Define the files to manipulate
-CONSTANTS_FILE=${APPCENTER_SOURCE_DIRECTORY}/XF.Templates.sh/Constants.cs
+CONSTANTS_FILE=${APPCENTER_SOURCE_DIRECTORY}/XF.Templates.sh/XF.Templates.sh/Constants.cs
 
 echo "##[warning][Pre-Build Action] - Checking if all files and environment variables are available..."
 
